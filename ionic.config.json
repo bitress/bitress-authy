@@ -1,0 +1,7 @@
+{
+  "name": "bitress-authy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
